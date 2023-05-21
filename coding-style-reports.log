@@ -1,0 +1,5 @@
+./B-PSU-100-LYN-1-1-sokoban-gnanmienlie-patrick-levy.n-da/.git/config:12: illegal token in column 21, giving up (hint: fix the file or remove it from the working set)
+./B-PSU-100-LYN-1-1-sokoban-gnanmienlie-patrick-levy.n-da/.git/hooks/update.sample:129: illegal token in column 11, giving up (hint: fix the file or remove it from the working set)
+./lose_condition.c:15: MAJOR:C-C1
+./lose_condition.c:44: MAJOR:C-C1
+./lose_condition.c:49: INFO:C-A3
